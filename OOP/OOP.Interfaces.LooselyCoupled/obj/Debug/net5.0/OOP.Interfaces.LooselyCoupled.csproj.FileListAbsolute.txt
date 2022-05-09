@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net5.0\OOP.Interfaces.LooselyCoupled.exe
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net5.0\OOP.Interfaces.LooselyCoupled.deps.json
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net5.0\OOP.Interfaces.LooselyCoupled.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net5.0\OOP.Interfaces.LooselyCoupled.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net5.0\OOP.Interfaces.LooselyCoupled.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net5.0\OOP.Interfaces.LooselyCoupled.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net5.0\OOP.Interfaces.LooselyCoupled.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net5.0\OOP.Interfaces.LooselyCoupled.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net5.0\OOP.Interfaces.LooselyCoupled.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net5.0\OOP.Interfaces.LooselyCoupled.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net5.0\OOP.Interfaces.LooselyCoupled.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net5.0\OOP.Interfaces.LooselyCoupled.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net5.0\refint\OOP.Interfaces.LooselyCoupled.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net5.0\OOP.Interfaces.LooselyCoupled.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net5.0\OOP.Interfaces.LooselyCoupled.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net5.0\ref\OOP.Interfaces.LooselyCoupled.dll

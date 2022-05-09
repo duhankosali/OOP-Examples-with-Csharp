@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.Inheritances\bin\Debug\net5.0\OOP.Inheritances.exe
+D:\net-core-projeler\OOP\OOP.Inheritances\bin\Debug\net5.0\OOP.Inheritances.deps.json
+D:\net-core-projeler\OOP\OOP.Inheritances\bin\Debug\net5.0\OOP.Inheritances.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.Inheritances\bin\Debug\net5.0\OOP.Inheritances.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.Inheritances\bin\Debug\net5.0\OOP.Inheritances.dll
+D:\net-core-projeler\OOP\OOP.Inheritances\bin\Debug\net5.0\OOP.Inheritances.pdb
+D:\net-core-projeler\OOP\OOP.Inheritances\obj\Debug\net5.0\OOP.Inheritances.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.Inheritances\obj\Debug\net5.0\OOP.Inheritances.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.Inheritances\obj\Debug\net5.0\OOP.Inheritances.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.Inheritances\obj\Debug\net5.0\OOP.Inheritances.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.Inheritances\obj\Debug\net5.0\OOP.Inheritances.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.Inheritances\obj\Debug\net5.0\OOP.Inheritances.dll
+D:\net-core-projeler\OOP\OOP.Inheritances\obj\Debug\net5.0\refint\OOP.Inheritances.dll
+D:\net-core-projeler\OOP\OOP.Inheritances\obj\Debug\net5.0\OOP.Inheritances.pdb
+D:\net-core-projeler\OOP\OOP.Inheritances\obj\Debug\net5.0\OOP.Inheritances.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.Inheritances\obj\Debug\net5.0\ref\OOP.Inheritances.dll

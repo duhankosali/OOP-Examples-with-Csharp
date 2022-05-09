@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\bin\Debug\net5.0\OOP.AbstractClassandMethods.exe
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\bin\Debug\net5.0\OOP.AbstractClassandMethods.deps.json
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\bin\Debug\net5.0\OOP.AbstractClassandMethods.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\bin\Debug\net5.0\OOP.AbstractClassandMethods.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\bin\Debug\net5.0\OOP.AbstractClassandMethods.dll
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\bin\Debug\net5.0\OOP.AbstractClassandMethods.pdb
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\obj\Debug\net5.0\OOP.AbstractClassandMethods.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\obj\Debug\net5.0\OOP.AbstractClassandMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\obj\Debug\net5.0\OOP.AbstractClassandMethods.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\obj\Debug\net5.0\OOP.AbstractClassandMethods.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\obj\Debug\net5.0\OOP.AbstractClassandMethods.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\obj\Debug\net5.0\OOP.AbstractClassandMethods.dll
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\obj\Debug\net5.0\refint\OOP.AbstractClassandMethods.dll
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\obj\Debug\net5.0\OOP.AbstractClassandMethods.pdb
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\obj\Debug\net5.0\OOP.AbstractClassandMethods.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.AbstractClassandMethods\obj\Debug\net5.0\ref\OOP.AbstractClassandMethods.dll

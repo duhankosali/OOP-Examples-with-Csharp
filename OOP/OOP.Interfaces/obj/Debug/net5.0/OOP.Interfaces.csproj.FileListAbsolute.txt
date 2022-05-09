@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.Interfaces\bin\Debug\net5.0\OOP.Interfaces.exe
+D:\net-core-projeler\OOP\OOP.Interfaces\bin\Debug\net5.0\OOP.Interfaces.deps.json
+D:\net-core-projeler\OOP\OOP.Interfaces\bin\Debug\net5.0\OOP.Interfaces.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.Interfaces\bin\Debug\net5.0\OOP.Interfaces.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.Interfaces\bin\Debug\net5.0\OOP.Interfaces.dll
+D:\net-core-projeler\OOP\OOP.Interfaces\bin\Debug\net5.0\OOP.Interfaces.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces\obj\Debug\net5.0\OOP.Interfaces.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.Interfaces\obj\Debug\net5.0\OOP.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.Interfaces\obj\Debug\net5.0\OOP.Interfaces.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces\obj\Debug\net5.0\OOP.Interfaces.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.Interfaces\obj\Debug\net5.0\OOP.Interfaces.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces\obj\Debug\net5.0\OOP.Interfaces.dll
+D:\net-core-projeler\OOP\OOP.Interfaces\obj\Debug\net5.0\refint\OOP.Interfaces.dll
+D:\net-core-projeler\OOP\OOP.Interfaces\obj\Debug\net5.0\OOP.Interfaces.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces\obj\Debug\net5.0\OOP.Interfaces.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.Interfaces\obj\Debug\net5.0\ref\OOP.Interfaces.dll

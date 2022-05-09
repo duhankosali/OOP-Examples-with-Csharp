@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.Generics.Methods\bin\Debug\net5.0\OOP.Generics.Methods.exe
+D:\net-core-projeler\OOP\OOP.Generics.Methods\bin\Debug\net5.0\OOP.Generics.Methods.deps.json
+D:\net-core-projeler\OOP\OOP.Generics.Methods\bin\Debug\net5.0\OOP.Generics.Methods.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.Generics.Methods\bin\Debug\net5.0\OOP.Generics.Methods.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.Generics.Methods\bin\Debug\net5.0\OOP.Generics.Methods.dll
+D:\net-core-projeler\OOP\OOP.Generics.Methods\bin\Debug\net5.0\OOP.Generics.Methods.pdb
+D:\net-core-projeler\OOP\OOP.Generics.Methods\obj\Debug\net5.0\OOP.Generics.Methods.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.Generics.Methods\obj\Debug\net5.0\OOP.Generics.Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.Generics.Methods\obj\Debug\net5.0\OOP.Generics.Methods.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.Generics.Methods\obj\Debug\net5.0\OOP.Generics.Methods.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.Generics.Methods\obj\Debug\net5.0\OOP.Generics.Methods.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.Generics.Methods\obj\Debug\net5.0\OOP.Generics.Methods.dll
+D:\net-core-projeler\OOP\OOP.Generics.Methods\obj\Debug\net5.0\refint\OOP.Generics.Methods.dll
+D:\net-core-projeler\OOP\OOP.Generics.Methods\obj\Debug\net5.0\OOP.Generics.Methods.pdb
+D:\net-core-projeler\OOP\OOP.Generics.Methods\obj\Debug\net5.0\OOP.Generics.Methods.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.Generics.Methods\obj\Debug\net5.0\ref\OOP.Generics.Methods.dll

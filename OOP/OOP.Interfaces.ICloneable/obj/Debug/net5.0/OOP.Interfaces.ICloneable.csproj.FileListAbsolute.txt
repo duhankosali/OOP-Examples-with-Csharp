@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\bin\Debug\net5.0\OOP.Interfaces.ICloneable.exe
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\bin\Debug\net5.0\OOP.Interfaces.ICloneable.deps.json
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\bin\Debug\net5.0\OOP.Interfaces.ICloneable.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\bin\Debug\net5.0\OOP.Interfaces.ICloneable.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\bin\Debug\net5.0\OOP.Interfaces.ICloneable.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\bin\Debug\net5.0\OOP.Interfaces.ICloneable.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\obj\Debug\net5.0\OOP.Interfaces.ICloneable.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\obj\Debug\net5.0\OOP.Interfaces.ICloneable.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\obj\Debug\net5.0\OOP.Interfaces.ICloneable.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\obj\Debug\net5.0\OOP.Interfaces.ICloneable.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\obj\Debug\net5.0\OOP.Interfaces.ICloneable.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\obj\Debug\net5.0\OOP.Interfaces.ICloneable.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\obj\Debug\net5.0\refint\OOP.Interfaces.ICloneable.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\obj\Debug\net5.0\OOP.Interfaces.ICloneable.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\obj\Debug\net5.0\OOP.Interfaces.ICloneable.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.ICloneable\obj\Debug\net5.0\ref\OOP.Interfaces.ICloneable.dll

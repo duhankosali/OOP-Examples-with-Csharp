@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\bin\Debug\net5.0\OOP.Generics.Arrays.exe
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\bin\Debug\net5.0\OOP.Generics.Arrays.deps.json
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\bin\Debug\net5.0\OOP.Generics.Arrays.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\bin\Debug\net5.0\OOP.Generics.Arrays.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\bin\Debug\net5.0\OOP.Generics.Arrays.dll
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\bin\Debug\net5.0\OOP.Generics.Arrays.pdb
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\obj\Debug\net5.0\OOP.Generics.Arrays.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\obj\Debug\net5.0\OOP.Generics.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\obj\Debug\net5.0\OOP.Generics.Arrays.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\obj\Debug\net5.0\OOP.Generics.Arrays.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\obj\Debug\net5.0\OOP.Generics.Arrays.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\obj\Debug\net5.0\OOP.Generics.Arrays.dll
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\obj\Debug\net5.0\refint\OOP.Generics.Arrays.dll
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\obj\Debug\net5.0\OOP.Generics.Arrays.pdb
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\obj\Debug\net5.0\OOP.Generics.Arrays.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.Generics.Arrays\obj\Debug\net5.0\ref\OOP.Generics.Arrays.dll

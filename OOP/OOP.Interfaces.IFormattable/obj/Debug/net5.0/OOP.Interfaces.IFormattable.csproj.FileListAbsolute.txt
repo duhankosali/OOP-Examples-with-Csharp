@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\bin\Debug\net5.0\OOP.Interfaces.IFormattable.exe
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\bin\Debug\net5.0\OOP.Interfaces.IFormattable.deps.json
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\bin\Debug\net5.0\OOP.Interfaces.IFormattable.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\bin\Debug\net5.0\OOP.Interfaces.IFormattable.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\bin\Debug\net5.0\OOP.Interfaces.IFormattable.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\bin\Debug\net5.0\OOP.Interfaces.IFormattable.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\obj\Debug\net5.0\OOP.Interfaces.IFormattable.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\obj\Debug\net5.0\OOP.Interfaces.IFormattable.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\obj\Debug\net5.0\OOP.Interfaces.IFormattable.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\obj\Debug\net5.0\OOP.Interfaces.IFormattable.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\obj\Debug\net5.0\OOP.Interfaces.IFormattable.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\obj\Debug\net5.0\OOP.Interfaces.IFormattable.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\obj\Debug\net5.0\refint\OOP.Interfaces.IFormattable.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\obj\Debug\net5.0\OOP.Interfaces.IFormattable.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\obj\Debug\net5.0\OOP.Interfaces.IFormattable.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.IFormattable\obj\Debug\net5.0\ref\OOP.Interfaces.IFormattable.dll

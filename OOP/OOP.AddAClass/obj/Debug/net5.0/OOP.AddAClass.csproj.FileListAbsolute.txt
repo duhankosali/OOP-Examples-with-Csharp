@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.AddAClass\bin\Debug\net5.0\OOP.AddAClass.exe
+D:\net-core-projeler\OOP\OOP.AddAClass\bin\Debug\net5.0\OOP.AddAClass.deps.json
+D:\net-core-projeler\OOP\OOP.AddAClass\bin\Debug\net5.0\OOP.AddAClass.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.AddAClass\bin\Debug\net5.0\OOP.AddAClass.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.AddAClass\bin\Debug\net5.0\OOP.AddAClass.dll
+D:\net-core-projeler\OOP\OOP.AddAClass\bin\Debug\net5.0\OOP.AddAClass.pdb
+D:\net-core-projeler\OOP\OOP.AddAClass\obj\Debug\net5.0\OOP.AddAClass.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.AddAClass\obj\Debug\net5.0\OOP.AddAClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.AddAClass\obj\Debug\net5.0\OOP.AddAClass.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.AddAClass\obj\Debug\net5.0\OOP.AddAClass.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.AddAClass\obj\Debug\net5.0\OOP.AddAClass.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.AddAClass\obj\Debug\net5.0\OOP.AddAClass.dll
+D:\net-core-projeler\OOP\OOP.AddAClass\obj\Debug\net5.0\refint\OOP.AddAClass.dll
+D:\net-core-projeler\OOP\OOP.AddAClass\obj\Debug\net5.0\OOP.AddAClass.pdb
+D:\net-core-projeler\OOP\OOP.AddAClass\obj\Debug\net5.0\OOP.AddAClass.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.AddAClass\obj\Debug\net5.0\ref\OOP.AddAClass.dll

@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\bin\Debug\net5.0\OOP.Interfaces.IEnumerates.exe
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\bin\Debug\net5.0\OOP.Interfaces.IEnumerates.deps.json
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\bin\Debug\net5.0\OOP.Interfaces.IEnumerates.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\bin\Debug\net5.0\OOP.Interfaces.IEnumerates.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\bin\Debug\net5.0\OOP.Interfaces.IEnumerates.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\bin\Debug\net5.0\OOP.Interfaces.IEnumerates.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\obj\Debug\net5.0\OOP.Interfaces.IEnumerates.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\obj\Debug\net5.0\OOP.Interfaces.IEnumerates.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\obj\Debug\net5.0\OOP.Interfaces.IEnumerates.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\obj\Debug\net5.0\OOP.Interfaces.IEnumerates.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\obj\Debug\net5.0\OOP.Interfaces.IEnumerates.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\obj\Debug\net5.0\OOP.Interfaces.IEnumerates.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\obj\Debug\net5.0\refint\OOP.Interfaces.IEnumerates.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\obj\Debug\net5.0\OOP.Interfaces.IEnumerates.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\obj\Debug\net5.0\OOP.Interfaces.IEnumerates.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.GetEnumerate\obj\Debug\net5.0\ref\OOP.Interfaces.IEnumerates.dll

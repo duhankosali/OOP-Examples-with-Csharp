@@ -1,0 +1,16 @@
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\bin\Debug\net5.0\OOP.Interfaces.IComparables_T.exe
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\bin\Debug\net5.0\OOP.Interfaces.IComparables_T.deps.json
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\bin\Debug\net5.0\OOP.Interfaces.IComparables_T.runtimeconfig.json
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\bin\Debug\net5.0\OOP.Interfaces.IComparables_T.runtimeconfig.dev.json
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\bin\Debug\net5.0\OOP.Interfaces.IComparables_T.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\bin\Debug\net5.0\OOP.Interfaces.IComparables_T.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\obj\Debug\net5.0\OOP.Interfaces.IComparables_T.csproj.AssemblyReference.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\obj\Debug\net5.0\OOP.Interfaces.IComparables_T.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\obj\Debug\net5.0\OOP.Interfaces.IComparables_T.AssemblyInfoInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\obj\Debug\net5.0\OOP.Interfaces.IComparables_T.AssemblyInfo.cs
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\obj\Debug\net5.0\OOP.Interfaces.IComparables_T.csproj.CoreCompileInputs.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\obj\Debug\net5.0\OOP.Interfaces.IComparables_T.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\obj\Debug\net5.0\refint\OOP.Interfaces.IComparables_T.dll
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\obj\Debug\net5.0\OOP.Interfaces.IComparables_T.pdb
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\obj\Debug\net5.0\OOP.Interfaces.IComparables_T.genruntimeconfig.cache
+D:\net-core-projeler\OOP\OOP.Interfaces.IComparables_T\obj\Debug\net5.0\ref\OOP.Interfaces.IComparables_T.dll
